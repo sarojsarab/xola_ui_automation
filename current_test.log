@@ -1,0 +1,27 @@
+2018-10-03 21:44:14,353 [INFO ] - Loading properties
+2018-10-03 21:44:14,353 [INFO ] - Properties loaded successfully
+2018-10-03 21:44:14,400 [INFO ] - Command line test started
+2018-10-03 21:44:14,416 [INFO ] - Loading property file
+2018-10-03 21:44:14,416 [INFO ] - Property file loaded successfully
+2018-10-03 21:44:14,416 [INFO ] - Loading test data
+2018-10-03 21:44:15,210 [INFO ] - Loading BookingDetails data
+2018-10-03 21:44:15,225 [INFO ] - BookingDetails data loaded successfully
+2018-10-03 21:44:15,241 [INFO ] - Loading CreditCardDetails data
+2018-10-03 21:44:15,241 [INFO ] - CreditCardDetails data loaded successfully
+2018-10-03 21:44:15,241 [INFO ] - Test data loaded successfully
+2018-10-03 21:44:15,257 [INFO ] - Initializing driver
+2018-10-03 21:44:20,353 [INFO ] - Driver initialized
+2018-10-03 21:44:20,360 [INFO ] - runTc01 test Started
+2018-10-03 21:44:29,368 [INFO ] - runTc01 test is failed 
+ reason: java.lang.NullPointerException
+2018-10-03 21:44:32,073 [INFO ] - Initializing driver
+2018-10-03 21:44:35,715 [INFO ] - Driver initialized
+2018-10-03 21:44:35,716 [INFO ] - runTc02 test Started
+2018-10-03 21:45:17,208 [INFO ] - runTc02 test is failed 
+ reason: java.lang.AssertionError: expected [Please contact Bengaluru City Tours at 1234567890 or email rushi+blrtours@xola.com if you are interested in booking a group larger than 6] but found [Please contact Bengaluru City Tours at 1234567890 or email rushi+blrtours@xola.com if you are interested in booking a group larger than 12]
+2018-10-03 21:45:19,132 [INFO ] - Initializing driver
+2018-10-03 21:45:22,672 [INFO ] - Driver initialized
+2018-10-03 21:45:22,673 [INFO ] - runTc03 test Started
+2018-10-03 21:45:29,191 [INFO ] - runTc03 test is failed 
+ reason: java.lang.NullPointerException
+2018-10-03 21:45:31,780 [INFO ] - Command line test completed
